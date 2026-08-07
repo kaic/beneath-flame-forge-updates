@@ -1,5 +1,5 @@
 {
-  "version": "0.18.2",
-  "notes": "Contorno preservado no downscale, pose do sprite sheet reestruturando de verdade (ControlNet), aviso de atualização ligado.",
-  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.18.2/BeneathFlameForge-Setup-0.18.2.exe"
+  "version": "0.18.3",
+  "notes": "Aviso de atualização parava de aparecer só quando devia; sprite sheet agora avisa quando uma pose fica sem esqueleto-guia (ControlNet).",
+  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.18.3/BeneathFlameForge-Setup-0.18.3.exe"
 }
