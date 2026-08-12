@@ -1,5 +1,5 @@
 {
-  "version": "0.18.3",
-  "notes": "Aviso de atualização parava de aparecer só quando devia; sprite sheet agora avisa quando uma pose fica sem esqueleto-guia (ControlNet).",
-  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.18.3/BeneathFlameForge-Setup-0.18.3.exe"
+  "version": "0.19.0",
+  "notes": "Tier de ilustração (sem pixel art) para hub/eventos, com upscale por modelo — pensado para o filtro CRT da Unity.",
+  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.0/BeneathFlameForge-Setup-0.19.0.exe"
 }
