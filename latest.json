@@ -1,5 +1,5 @@
 {
-  "version": "0.19.0",
-  "notes": "Tier de ilustração (sem pixel art) para hub/eventos, com upscale por modelo — pensado para o filtro CRT da Unity.",
-  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.0/BeneathFlameForge-Setup-0.19.0.exe"
+  "version": "0.19.1",
+  "notes": "Corrige geração falhando com 400 no tier illustration (modelo de upscale ausente), instalador travado depois de apagar a imagem Docker manualmente, e destrava campos de cores/revisão e limites de caracteres no formulário.",
+  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.1/BeneathFlameForge-Setup-0.19.1.exe"
 }
