@@ -1,5 +1,5 @@
 {
-  "version": "0.19.1",
-  "notes": "Corrige geração falhando com 400 no tier illustration (modelo de upscale ausente), instalador travado depois de apagar a imagem Docker manualmente, e destrava campos de cores/revisão e limites de caracteres no formulário.",
-  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.1/BeneathFlameForge-Setup-0.19.1.exe"
+  "version": "0.19.2",
+  "notes": "Corrige o painel ficando preso numa build antiga por cache do navegador depois de um update (o container já podia estar rodando a versão nova).",
+  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.2/BeneathFlameForge-Setup-0.19.2.exe"
 }
