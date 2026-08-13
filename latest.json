@@ -1,5 +1,5 @@
 {
-  "version": "0.19.2",
-  "notes": "Corrige o painel ficando preso numa build antiga por cache do navegador depois de um update (o container já podia estar rodando a versão nova).",
-  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.2/BeneathFlameForge-Setup-0.19.2.exe"
+  "version": "0.19.3",
+  "notes": "Aviso de atualização agora recheca a cada 30 minutos — um launcher deixado aberto de antes de um release nunca via o aviso.",
+  "download_url": "https://github.com/kaic/beneath-flame-forge/releases/download/v0.19.3/BeneathFlameForge-Setup-0.19.3.exe"
 }
